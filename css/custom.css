@@ -1,0 +1,9 @@
+/* Custom CSS */
+
+.serviceInfo{
+    text-align: justify;
+}
+
+#serviceList li{
+    padding-left: 10px;
+}
