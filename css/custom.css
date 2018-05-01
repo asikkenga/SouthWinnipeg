@@ -7,3 +7,18 @@
 #serviceList li{
     padding-left: 10px;
 }
+
+.team-bio {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+.team-img{
+    float: left;
+    padding: 10px;
+}
+
+.team-block{
+    margin-bottom: 30px;
+    border-bottom: solid black 1px;
+}
