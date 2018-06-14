@@ -13,12 +13,6 @@
     padding-bottom: 10px;
 }
 
-.team-img{
-    float: left;
-    padding: 10px;
-}
-
-.team-block{
+.entry-content{
     margin-bottom: 30px;
-    border-bottom: solid black 1px;
 }

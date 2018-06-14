@@ -60,6 +60,8 @@ Author:             Jitu Chauhan
     1. Body / Typography 
 -----------------------------------*/
 
+
+
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 15px; background-color: #fff; color: #6f6f6f; font-family: 'Roboto', sans-serif; line-height: 24px; }
 h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; margin-bottom: 10px; color: #3c3c3c; font-weight: 400; font-family: 'Roboto', sans-serif; }
 h1 { font-size: 30px; line-height: 42px; }
@@ -663,7 +665,7 @@ ul.widget-recent-post { }
 .team-block { margin-bottom: 20px; }
 .team-img { margin-bottom: 0px;}
 .team-content {text-align: center; display: block;}
-.team-title { margin-bottom: 0px; }
+.team-title { margin-bottom: 0px; margin-top: 20px; }
 .team-name { }
 .team-meta { text-transform: uppercase; font-size: 12px; color: #4d8077; font-weight: 500; letter-spacing: 1px; }
 .team-designation { }
