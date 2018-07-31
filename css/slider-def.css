@@ -332,3 +332,10 @@
     margin-left:45px;
   }
 }
+
+@media (min-width: 200px) and (max-width: 769px) {
+  .content-txt{
+    width: 90%;
+  }
+  }
+

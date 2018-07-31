@@ -16,3 +16,45 @@
 .entry-content{
     margin-bottom: 30px;
 }
+
+.saying h1{
+    background: #4d8077;
+    font-family: "Over the Rainbow";
+    font-size: 45px;
+    color: white;
+    padding: 15px;
+
+}
+
+/* Footer Addresses for Mobile*/
+
+.listnoneScreen { list-style: none; padding: 0px; }
+
+.listnoneMobile { list-style: none; padding: 0px; }
+
+.fa-map-marker{
+    color: #f96c2f;
+}
+
+.listAddresses {
+    font-size: smaller;
+    margin-left: 5px;
+}
+
+@media (min-width: 200px) and (max-width: 769px) {
+    .listnoneScreen{
+        display: none;
+    }
+}
+
+@media (min-width: 770px){
+    .listnoneMobile{
+        display: none;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 769px) {
+    .hero-section{
+
+    }
+}
