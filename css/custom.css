@@ -23,7 +23,18 @@
     font-size: 45px;
     color: white;
     padding: 15px;
+}
 
+#services{
+    margin-left: 5px;
+}
+
+#services p{
+    margin-left:  15px;
+}
+
+.fa-chevron-right{
+    color: #f96c2f;
 }
 
 /* Footer Addresses for Mobile*/
